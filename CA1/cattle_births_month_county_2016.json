@@ -1,0 +1,4370 @@
+[
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3670
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 680
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 778
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 80
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 835
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 123
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2858
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3559
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1399
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1124
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 851
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 103
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1183
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 169
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4591
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1392
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2138
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 319
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 829
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 247
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 882
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 372
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 886
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CARLOW",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 373
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 12323
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1963
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2189
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 331
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1679
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 714
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6174
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 5999
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3638
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2459
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3108
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 296
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4777
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 544
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 11655
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4002
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9474
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1106
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1872
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 831
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1875
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 725
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1957
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CAVAN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 527
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 17629
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1344
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3340
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 57
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2247
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 99
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 11241
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8164
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5036
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1406
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3582
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 85
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4977
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 189
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 18542
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4093
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 10714
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 502
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1977
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 127
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2419
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 80
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2776
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CLARE",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 89
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 35669
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 12320
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5058
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1249
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4094
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2449
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 42406
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 95720
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 14679
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 45592
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5584
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1058
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8890
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1901
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 51669
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 33780
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 18602
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4983
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4141
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3834
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4506
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4243
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5335
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "CORK",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2744
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9212
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1277
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1421
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 130
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1891
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 356
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3920
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3854
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3177
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 778
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1988
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 87
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3548
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 202
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7592
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3652
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7450
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 580
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1917
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 381
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1705
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 340
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1596
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DONEGAL",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 184
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 832
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 131
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 201
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 44
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 137
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 58
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 390
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 218
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 231
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 131
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 238
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 40
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 371
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 59
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 704
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 168
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 629
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 124
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 217
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 131
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 226
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 113
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 211
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "DUBLIN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 152
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 24001
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1673
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4814
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 170
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2184
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 311
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 11338
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8220
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5820
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1969
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5829
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 246
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9401
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 329
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 22370
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3973
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 16698
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 772
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2805
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 451
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3579
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 455
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3985
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "GALWAY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 235
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 15522
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4353
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3067
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 292
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2184
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 607
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 16223
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 24956
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5364
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8713
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3221
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 334
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4790
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 768
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 20231
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 11292
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9117
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1917
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2316
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 590
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2240
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 424
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2614
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KERRY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 265
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4048
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 603
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 883
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 149
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 669
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 213
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2876
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3265
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1358
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1023
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 879
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 86
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1260
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 117
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4793
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1613
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2669
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 329
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 763
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 448
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 901
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 771
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 937
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILDARE",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 319
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 10534
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2725
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1743
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 211
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1339
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 393
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 12320
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 24074
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4233
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 9738
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1863
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 308
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2775
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 438
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 15718
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8412
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5697
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1175
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1580
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 780
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1767
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 688
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1909
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "KILKENNY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 544
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7568
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1735
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2292
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 204
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1443
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 367
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5852
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 11887
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2572
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2368
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1895
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 135
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2699
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 340
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8855
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4945
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4791
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 826
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1702
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 442
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2189
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 709
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2408
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LAOIS",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 530
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5462
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 150
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1216
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 10
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 841
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 63
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1678
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 283
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1928
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 217
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1700
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 6
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2589
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 25
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3211
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 254
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5093
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 32
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 905
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 70
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 927
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 84
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 933
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LEITRIM",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 54
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 15369
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4034
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2405
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 420
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1158
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 476
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 16488
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 29244
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4378
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8256
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2996
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 474
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4820
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 740
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 21940
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 11687
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8757
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1664
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1290
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 702
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1732
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 508
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1946
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LIMERICK",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 474
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5959
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 533
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1315
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 80
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 646
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 59
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2529
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2248
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1470
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 416
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1777
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 9
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2308
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 85
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5166
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1161
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4211
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 181
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 802
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 130
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 929
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 138
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1124
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LONGFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 90
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2665
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 796
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 719
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 280
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 573
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 268
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2202
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3602
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 726
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 858
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 728
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 199
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 930
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 246
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3180
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1689
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1794
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 412
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 593
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 619
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 833
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 905
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 704
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "LOUTH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 742
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 18283
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 801
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2810
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 147
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1829
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 222
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7115
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2839
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4944
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 854
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3994
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 138
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6577
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 201
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 16418
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2050
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 13115
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 419
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1937
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 264
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2021
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 231
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2263
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MAYO",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 154
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9463
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2869
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2017
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 549
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1209
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 908
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5167
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 10208
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2184
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3597
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2388
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 395
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3025
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 678
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9535
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 6092
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6038
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1314
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1861
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1670
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2076
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2831
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2343
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MEATH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2209
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8607
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2000
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2034
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 313
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1424
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 949
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4903
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 5653
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2908
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2874
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2447
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 422
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3504
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 782
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8150
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4012
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6283
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1274
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1543
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 973
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1510
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 871
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1807
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "MONAGHAN",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 552
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7270
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1059
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1997
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 70
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1136
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 215
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5096
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 7446
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2165
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2024
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2008
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 98
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2639
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 212
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8618
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2909
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4665
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 435
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1363
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 287
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1834
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 403
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2062
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "OFFALY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 220
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 11501
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 281
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2244
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 36
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1265
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 57
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4200
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1080
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3427
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 259
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2897
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 54
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4965
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 65
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8855
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 778
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9315
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 136
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1451
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 56
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1669
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 37
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1764
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "ROSCOMMON",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 31
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 7747
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 479
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1012
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 14
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1110
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 150
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3196
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1609
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2323
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 391
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1296
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 36
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2220
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 75
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6233
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 924
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5367
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 225
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1178
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 143
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1132
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 165
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1153
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "SLIGO",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 23
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 22156
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 4898
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3411
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 349
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1873
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 409
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 23720
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 47847
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6369
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 12005
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3823
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 453
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5591
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 839
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 30571
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 17392
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 11902
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2324
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2522
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 674
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3128
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 722
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3487
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "TIPPERARY",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 639
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8071
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2373
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1490
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 212
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 679
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 406
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 10792
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 22560
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3333
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 9523
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1393
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 223
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2107
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 409
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 12832
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 7281
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4071
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 939
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 938
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 673
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1257
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1055
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1446
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WATERFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 868
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8308
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1202
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1933
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 94
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1439
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 215
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4292
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 5841
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2136
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1308
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2345
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 151
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3002
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 163
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 8734
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3061
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 6183
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 482
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1410
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 416
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1839
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 406
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1876
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WESTMEATH",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 258
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9382
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 2330
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1913
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 347
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1749
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 951
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 9882
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 15835
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 4644
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 8395
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1721
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 293
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2794
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 533
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 12503
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 5933
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5624
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1137
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2220
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1215
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2310
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1530
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 2336
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WEXFORD",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 962
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5345
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "APR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 922
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1210
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "AUG",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 242
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1181
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "DEC",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 500
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3667
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "FEB",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 3167
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1819
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JAN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1177
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1318
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JUL",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 119
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1928
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "JUN",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 186
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 5649
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "MAR",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1854
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 3536
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "MAY",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 379
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1449
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "NOV",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 956
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1308
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "OCT",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 1217
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "BEEF",
+    "TOTAL_BIRTH": 1210
+  },
+  {
+    "BIRTH_YEAR": 2016,
+    "COUNTY_ORIGIN": "WICKLOW",
+    "BIRTH_MONTH": "SEP",
+    "CALF_BREED_TYPE": "DAIRY",
+    "TOTAL_BIRTH": 879
+  }
+]
